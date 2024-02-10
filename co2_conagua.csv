@@ -1,58 +1,58 @@
-﻿Año,Sector IPCC,Categoría IPCC,Sub Categoría IPCC,Fuente IPCC,Sub Fuente IPCC,CO2,CH4
-2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,141993.88,134.43
-2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,13454.59,9.35
-2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,29868.78,17.52
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,2834.48,1.51
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,1425.45,0.99
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,10853.51,5.60
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,1997.21,1.08
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,1540.04,29.46
+﻿Año,Sector IPCC,Categoría IPCC,Sub Categoría IPCC,Fuente IPCC,Sub Fuente IPCC,CH4,CO2
+2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,5.38,134.43
+2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,0.37,9.35
+2014,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,0.70,17.52
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,0.06,1.51
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,0.04,0.99
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,0.22,5.60
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,0.04,1.08
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,1.18,29.46
 2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2f Minerales no metálicos,,0.00,0.00
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,255.90,0.17
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,0.01,0.17
 2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2h Maquinaria,,0.00,0.00
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,12752.85,13.23
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,0.53,13.23
 2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2j Madera y productos de la madera,,0.00,0.00
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,731.88,0.84
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,0.03,0.84
 2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2l Textiles y cueros,,0.00,0.00
-2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,26125.48,35.90
-2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,5616.35,1.08
-2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,150401.72,309.89
-2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,1909.20,3.05
-2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,2139.43,5.75
+2014,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,1.44,35.90
+2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,0.04,1.08
+2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,12.40,309.89
+2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,0.12,3.05
+2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,0.23,5.75
 2014,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3e Otro transporte,,0.00,0.00
-2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,5204.55,11.95
-2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,19172.97,2176.69
-2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,8939.91,33.69
-2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,0.00,9209.36
-2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,0.00,131.24
+2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,0.48,11.95
+2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,87.07,2176.69
+2014,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,1.35,33.69
+2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,368.37,9209.36
+2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,5.25,131.24
 2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1b Combustión espontánea y vertederos para quema de carbón,,0.00,0.00
-2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,5638.84,5638.77
-2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,1671.90,9087.88
-2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,17466.41,0.00
-2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,18259.33,0.00
-2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,3103.33,0.00
-2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,472.48,0.00
+2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,225.55,5638.77
+2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,363.52,9087.88
+2014,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A4 Otros usos de carbonatos,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A5 Otros,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,1516.61,0.00
+2014,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2B Industria química,2B2 Producción de ácido nítrico,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2B Industria química,2B3 Producción de ácido adípico,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2B Industria química,"2B4 Producción de caprolactama, glioxil y ácido glioxílico",,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2B Industria química,2B5 Producción de carburo,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,201.00,0.00
-2014,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,40.02,0.00
-2014,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,1662.09,194.83
+2014,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,7.79,194.83
 2014,2 Procesos industriales y uso de productos,2B Industria química,2B9 Producción fluoroquímica,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2B Industria química,2B10 Otros,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,14344.53,0.00
-2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,318.55,0.00
+2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C3 Producción de aluminio,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C4 Producción de magnesio,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,130.24,0.00
-2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,1134.99,0.00
+2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2C Industria de los metales,2C7 Otros,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,124.94,0.00
-2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,19.32,0.00
+2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,0.00,0.00
+2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D3 Uso de solventes,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D4 Otros,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2E Industria electrónica,2E1 Circuitos integrados o semiconductores,,,0.00,0.00
@@ -70,118 +70,118 @@
 2014,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G2 SF6 y PFC de otros usos de productos,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G3 N2O de usos de productos,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G4 Otros,,,0.00,0.00
-2014,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,51.71,0.00
+2014,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2H Otros,2H2 Industria de la alimentación y las bebidas,,,0.00,0.00
 2014,2 Procesos industriales y uso de productos,2H Otros,2H3 Otros,,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,0.00,48886.10
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,1955.44,48886.10
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1b Búfalos,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,0.00,1200.63
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,0.00,1216.29
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,48.03,1200.63
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,48.65,1216.29
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1e Camello,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,0.00,433.72
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,0.00,107.53
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,0.00,237.85
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,17.35,433.72
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,4.30,107.53
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,9.51,237.85
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1i Otros  (especificar),,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,0.00,8021.28
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,320.85,8021.28
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2b Búfalos,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,0.00,35.22
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,0.00,37.70
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,1.41,35.22
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,1.51,37.70
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2e Camello,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,0.00,40.31
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,0.00,10.32
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,0.00,2625.65
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,0.00,159.56
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,1.61,40.31
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,0.41,10.32
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,105.03,2625.65
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,6.38,159.56
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Otros  (especificar),,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,-138504.68,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,-1465.44,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,-12215.61,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,11339.60,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,-16422.92,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,8586.48,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4a Humedales que permanecen como tal,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,44.57,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5a Asentamientos que permanecen como tal,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,137.57,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6a Otras tierras que permanecen como tal,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,154.36,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,0.00,143.91
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,0.00,688.09
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,0.00,76.28
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,5.76,143.91
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,27.52,688.09
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,3.05,76.28
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1d Emisiones de quemado de biomasa en otras tierras,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,37.59,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,513.33,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,0.00,0.00
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C4 Emisiones directas de los N2O de los suelos gestionados,,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C5 Emisiones indirectas de los N2O de los suelos gestionados,,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C6 Emisiones indirectas de los N2O de la gestión del estiércol,,,0.00,0.00
-2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,0.00,154.41
+2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,6.18,154.41
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D1 Productos de madera recolectada,,,0.00,0.00
 2014,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D2 Otros (especificar),,,0.00,0.00
-2014,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,0.00,16137.38
-2014,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,0.00,2326.93
-2014,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,0.00,2315.50
-2014,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,0.00,116.66
-2014,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,49.28,0.11
-2014,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,751.09,659.46
-2014,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,0.00,3558.22
-2014,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,0.00,16450.16
+2014,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,645.50,16137.38
+2014,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,93.08,2326.93
+2014,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,92.62,2315.50
+2014,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,4.67,116.66
+2014,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,0.00,0.11
+2014,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,26.38,659.46
+2014,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,142.33,3558.22
+2014,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,658.01,16450.16
 2014,4 Residuos,4E Otros,,,,0.00,0.00
-2014,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,4192.59,0.81
+2014,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,0.03,0.81
 2014,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Marítimo internacional,,,0.00,0.00
-2014,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,26805.07,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,100456.81,103.16
-1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,10384.30,8.93
-1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,24377.17,16.43
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,4709.02,3.43
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,2835.52,1.92
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,17398.89,11.04
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,2581.94,2.10
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,4770.93,4.68
+2014,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,0.00,0.00
+1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,4.13,103.16
+1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,0.36,8.93
+1998,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,0.66,16.43
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,0.14,3.43
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,0.08,1.92
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,0.44,11.04
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,0.08,2.10
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,0.19,4.68
 1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2f Minerales no metálicos,,0.00,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,294.01,0.15
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,0.01,0.15
 1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2h Maquinaria,,0.00,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,8069.29,7.91
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,0.32,7.91
 1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2j Madera y productos de la madera,,0.00,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,373.94,0.43
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,0.02,0.43
 1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2l Textiles y cueros,,0.00,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,12880.62,71.68
-1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,5026.36,0.97
-1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,99693.75,177.59
-1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,1693.27,2.70
-1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,2449.49,6.54
+1998,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,2.87,71.68
+1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,0.04,0.97
+1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,7.10,177.59
+1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,0.11,2.70
+1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,0.26,6.54
 1998,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3e Otro transporte,,0.00,0.00
-1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,4419.09,10.04
-1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,22214.16,2419.86
-1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,5722.60,21.86
-1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,0.00,3600.67
-1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,0.00,73.81
+1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,0.40,10.04
+1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,96.79,2419.86
+1998,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,0.87,21.86
+1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,144.03,3600.67
+1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,2.95,73.81
 1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1b Combustión espontánea y vertederos para quema de carbón,,0.00,0.00
-1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,5740.96,7205.62
-1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,1369.31,4480.64
-1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,30133.92,0.00
-1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,13412.33,0.00
-1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,2408.40,0.00
-1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,400.22,0.00
+1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,288.22,7205.62
+1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,179.23,4480.64
+1998,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A4 Otros usos de carbonatos,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A5 Otros,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,3174.41,0.00
+1998,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2B Industria química,2B2 Producción de ácido nítrico,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2B Industria química,2B3 Producción de ácido adípico,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2B Industria química,"2B4 Producción de caprolactama, glioxil y ácido glioxílico",,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2B Industria química,2B5 Producción de carburo,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,149.21,0.00
-1998,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,40.02,0.00
-1998,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,2141.28,240.55
+1998,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,9.62,240.55
 1998,2 Procesos industriales y uso de productos,2B Industria química,2B9 Producción fluoroquímica,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2B Industria química,2B10 Otros,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,12081.07,0.00
-1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,359.96,0.00
-1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C3 Producción de aluminio,,,107.76,0.00
+1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C3 Producción de aluminio,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C4 Producción de magnesio,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,96.75,0.00
-1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,680.07,0.00
+1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2C Industria de los metales,2C7 Otros,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,173.44,0.00
-1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,55.62,0.00
+1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,0.00,0.00
+1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D3 Uso de solventes,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D4 Otros,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2E Industria electrónica,2E1 Circuitos integrados o semiconductores,,,0.00,0.00
@@ -199,118 +199,118 @@
 1998,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G2 SF6 y PFC de otros usos de productos,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G3 N2O de usos de productos,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G4 Otros,,,0.00,0.00
-1998,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,77.64,0.00
+1998,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2H Otros,2H2 Industria de la alimentación y las bebidas,,,0.00,0.00
 1998,2 Procesos industriales y uso de productos,2H Otros,2H3 Otros,,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,0.00,46262.97
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,1850.52,46262.97
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1b Búfalos,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,0.00,812.62
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,0.00,1265.59
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,32.50,812.62
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,50.62,1265.59
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1e Camello,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,0.00,1116.35
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,0.00,457.60
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,0.00,284.69
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,44.65,1116.35
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,18.30,457.60
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,11.39,284.69
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1i Otros  (especificar),,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,0.00,6081.60
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,243.26,6081.60
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2b Búfalos,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,0.00,25.09
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,0.00,40.46
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,1.00,25.09
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,1.62,40.46
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2e Camello,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,0.00,107.42
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,0.00,44.19
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,0.00,4265.35
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,0.00,107.30
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,4.30,107.42
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,1.77,44.19
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,170.61,4265.35
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,4.29,107.30
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Otros  (especificar),,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,-134150.52,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,-4278.98,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,-12551.08,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,10958.49,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,-15674.44,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,5602.36,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4a Humedales que permanecen como tal,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,171.63,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5a Asentamientos que permanecen como tal,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,1606.14,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6a Otras tierras que permanecen como tal,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,50.18,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,0.00,1454.95
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,0.00,564.63
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,0.00,196.26
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,58.20,1454.95
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,22.59,564.63
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,7.85,196.26
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1d Emisiones de quemado de biomasa en otras tierras,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,33.66,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,417.27,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,0.00,0.00
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C4 Emisiones directas de los N2O de los suelos gestionados,,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C5 Emisiones indirectas de los N2O de los suelos gestionados,,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C6 Emisiones indirectas de los N2O de la gestión del estiércol,,,0.00,0.00
-1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,0.00,286.63
+1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,11.47,286.63
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D1 Productos de madera recolectada,,,0.00,0.00
 1998,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D2 Otros (especificar),,,0.00,0.00
-1998,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,0.00,3731.42
-1998,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,0.00,242.60
-1998,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,0.00,35.83
-1998,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,0.00,95.50
-1998,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,0.14,0.00
-1998,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,542.26,1080.50
-1998,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,0.00,4236.63
-1998,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,0.00,11248.11
+1998,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,149.26,3731.42
+1998,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,9.70,242.60
+1998,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,1.43,35.83
+1998,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,3.82,95.50
+1998,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,0.00,0.00
+1998,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,43.22,1080.50
+1998,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,169.47,4236.63
+1998,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,449.92,11248.11
 1998,4 Residuos,4E Otros,,,,0.00,0.00
-1998,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,2899.97,0.56
+1998,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,0.02,0.56
 1998,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Marítimo internacional,,,0.00,0.00
-1998,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,36523.83,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,133008.92,126.06
-2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,11153.71,8.61
-2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,23950.48,13.62
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,2858.01,1.87
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,1300.19,0.99
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,9912.43,6.15
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,2386.20,1.84
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,3010.64,47.45
+1998,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,0.00,0.00
+2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,5.04,126.06
+2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,0.34,8.61
+2005,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,0.54,13.62
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2a Hierro y acero,,0.07,1.87
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,0.04,0.99
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,0.25,6.15
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,0.07,1.84
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,1.90,47.45
 2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2f Minerales no metálicos,,0.00,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,152.76,0.09
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,0.00,0.09
 2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2h Maquinaria,,0.00,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,9865.27,10.40
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,0.42,10.40
 2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2j Madera y productos de la madera,,0.00,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,485.82,0.56
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,0.02,0.56
 2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2l Textiles y cueros,,0.00,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,24187.13,33.33
-2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,4897.30,0.94
-2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,127455.34,267.46
-2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,1704.85,2.72
-2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,2394.28,6.38
+2005,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,1.33,33.33
+2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,0.04,0.94
+2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,10.70,267.46
+2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,0.11,2.72
+2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,0.26,6.38
 2005,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3e Otro transporte,,0.00,0.00
-2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,4577.01,10.26
-2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,19967.25,2281.72
-2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,5970.99,22.02
-2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,0.00,3427.14
-2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,0.00,69.23
+2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,0.41,10.26
+2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,91.27,2281.72
+2005,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,0.88,22.02
+2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,137.09,3427.14
+2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,2.77,69.23
 2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1b Combustión espontánea y vertederos para quema de carbón,,0.00,0.00
-2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,6524.56,9646.21
-2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,1492.98,7157.73
-2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,9681.48,0.00
-2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,16673.75,0.00
-2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,2516.41,0.00
-2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,401.89,0.00
+2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,385.85,9646.21
+2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,286.31,7157.73
+2005,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A4 Otros usos de carbonatos,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A5 Otros,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,896.49,0.00
+2005,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2B Industria química,2B2 Producción de ácido nítrico,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2B Industria química,2B3 Producción de ácido adípico,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2B Industria química,"2B4 Producción de caprolactama, glioxil y ácido glioxílico",,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2B Industria química,2B5 Producción de carburo,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,183.58,0.00
-2005,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,40.02,0.00
-2005,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,1830.87,204.17
+2005,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,8.17,204.17
 2005,2 Procesos industriales y uso de productos,2B Industria química,2B9 Producción fluoroquímica,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2B Industria química,2B10 Otros,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,12390.42,0.00
-2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,265.64,0.00
+2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C3 Producción de aluminio,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C4 Producción de magnesio,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,69.88,0.00
-2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,819.25,0.00
+2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2C Industria de los metales,2C7 Otros,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,171.06,0.00
-2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,32.09,0.00
+2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,0.00,0.00
+2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D3 Uso de solventes,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D4 Otros,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2E Industria electrónica,2E1 Circuitos integrados o semiconductores,,,0.00,0.00
@@ -328,61 +328,61 @@
 2005,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G2 SF6 y PFC de otros usos de productos,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G3 N2O de usos de productos,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G4 Otros,,,0.00,0.00
-2005,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,71.59,0.00
+2005,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2H Otros,2H2 Industria de la alimentación y las bebidas,,,0.00,0.00
 2005,2 Procesos industriales y uso de productos,2H Otros,2H3 Otros,,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,0.00,46280.68
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,1851.23,46280.68
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1b Búfalos,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,0.00,1009.04
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,0.00,1241.84
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,40.36,1009.04
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,49.67,1241.84
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1e Camello,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,0.00,768.83
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,0.00,277.91
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,0.00,249.66
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,30.75,768.83
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,11.12,277.91
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,9.99,249.66
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1i Otros  (especificar),,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,0.00,7119.32
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,284.77,7119.32
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2b Búfalos,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,0.00,30.90
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,0.00,38.52
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,1.24,30.90
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,1.54,38.52
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2e Camello,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,0.00,73.85
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,0.00,26.51
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,0.00,3512.31
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,0.00,136.93
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,2.95,73.85
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,1.06,26.51
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,140.49,3512.31
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,5.48,136.93
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Otros  (especificar),,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,-138071.68,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,-2480.19,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,-11555.34,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,9111.91,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,-15551.33,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,4714.81,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4a Humedales que permanecen como tal,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,1270.41,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5a Asentamientos que permanecen como tal,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,1240.48,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6a Otras tierras que permanecen como tal,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,209.35,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,0.00,455.03
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,0.00,598.92
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,0.00,71.15
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,18.20,455.03
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,23.96,598.92
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,2.85,71.15
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1d Emisiones de quemado de biomasa en otras tierras,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,34.49,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,451.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,0.00,0.00
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C4 Emisiones directas de los N2O de los suelos gestionados,,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C5 Emisiones indirectas de los N2O de los suelos gestionados,,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C6 Emisiones indirectas de los N2O de la gestión del estiércol,,,0.00,0.00
-2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,0.00,185.55
+2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,7.42,185.55
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D1 Productos de madera recolectada,,,0.00,0.00
 2005,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D2 Otros (especificar),,,0.00,0.00
-2005,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,0.00,7651.65
-2005,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,0.00,827.42
-2005,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,0.00,420.32
-2005,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,0.00,97.96
-2005,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,10.90,0.08
-2005,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,618.67,869.28
-2005,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,0.00,4144.35
-2005,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,0.00,12036.73
+2005,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,306.07,7651.65
+2005,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,33.10,827.42
+2005,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,16.81,420.32
+2005,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,3.92,97.96
+2005,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,0.00,0.08
+2005,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,34.77,869.28
+2005,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,165.77,4144.35
+2005,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,481.47,12036.73
 2005,4 Residuos,4E Otros,,,,0.00,0.00
-2005,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,3296.00,0.64
+2005,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,0.03,0.64
 2005,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Marítimo internacional,,,0.00,0.00
-2005,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,27704.85,0.00
+2005,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,0.00,0.00
